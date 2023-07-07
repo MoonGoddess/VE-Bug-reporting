@@ -1,4 +1,4 @@
-Log uploaded on Thursday, July 6, 2023, 7:07:37 PM
+Log uploaded on Thursday, July 6, 2023, 7:14:58 PM
 Loaded mods:
 Harmony(brrainz.harmony)[mv:1.5.0.0]: 0Harmony(2.2.2), HarmonyMod(1.5.0)
 Core(Ludeon.RimWorld): (no assemblies)
@@ -622,4 +622,6 @@ System.NullReferenceException: Object reference not set to an instance of an obj
   at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <4a46802aeab646ab99159f7eecb6b57e>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
+Could not find any VFED_Intel to transfer to trader. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
